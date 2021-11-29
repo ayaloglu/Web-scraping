@@ -17,7 +17,7 @@ Run ``` python app.py``` in terminal.
 
 Open http://127.0.0.1:5000/ in your browser.
 
-When you click "Scrape Data" button the you will get the most updated news about Mars. 
+When you click "Scrape Data" button you will get the most updated news about Mars. 
 
 
 
